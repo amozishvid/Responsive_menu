@@ -1,0 +1,5 @@
+1.  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+2.  stackpath bootstrap font awesome
+
+3.  https://fontawesome.com/v4.7.0/icon/bars
